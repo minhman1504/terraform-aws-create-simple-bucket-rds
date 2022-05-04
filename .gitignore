@@ -1,0 +1,7 @@
+#ignore state terraform
+*.tfstate
+*.tfstate.backup
+
+#provider
+.terraform.lock.hcl
+.terraform
